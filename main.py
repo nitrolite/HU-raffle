@@ -2,7 +2,6 @@ import requests
 import time
 from random import getrandbits
 from threading import Thread
-from bs4 import BeautifulSoup
 from colorama import Fore, Back, Style
 from colorama import init
 init(autoreset=True)
