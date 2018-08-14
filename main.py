@@ -87,7 +87,7 @@ class Raffle(object):
                     "5":self.lastname,
                     "6":self.instagram,
                     "7":self.twitter,
-                    "8":"234",
+                    "8":"234",#COUNTRY CODE
                     "13":"1", #TODO 1,2 OR 3 FOR BLACK,AQUA OR PINK
                     "9":self.size,
                     "currentPage":"1",
